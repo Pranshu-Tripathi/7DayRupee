@@ -1,11 +1,16 @@
-# 7DayRupee
+# weekly_expenses
 
-An Flutter Based Application webbed around storing and presenting expenditure of 7 previous days through graphs.
+A new Flutter application.
 
-## Project Idea
+## Getting Started
 
-The Application is based on the idea of taking small steps to save. Seening the expenditures on montly basis as a whole is cumbersome as it makes it difficult to maintain for so long and to follo. So why not try reducing the review period to weekly basis. This way we can easily review our methods and transactions and act accordingly.
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
